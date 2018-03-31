@@ -15,3 +15,7 @@ void print_name() {
 void print_name_private() {
     printf("func_first_week of study\n");
 }
+
+void say() {
+    printf("烦人！\n");
+}

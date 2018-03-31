@@ -10,7 +10,8 @@
 #include "func_first_week.h"
 
 
-int main(int argc, const char * argv[]) { 
-    print_name();
+int main(int argc, const char * argv[]) {
+    say();
+    //print_name();
     return 0;
 }
